@@ -1,3 +1,6 @@
+syntax on
+filetype on
+set noswapfile
 set number
 set relativenumber
 set tabstop=4
